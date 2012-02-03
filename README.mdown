@@ -1,14 +1,16 @@
-Vim Coal Graal theme
+Vim Getafe theme
 ====================
 
-Converted from Textmate theme Coal Graal using Coloration v0.2.4 (http://github.com/sickill/coloration)
+Description
+-----------
+This colorscheme was inspired by the Molokai color scheme. This is a dark theme for iTerm2.
 
-Preview
--------
 
-![Preview](http://f.cl.ly/items/2E3c2z2N3f233r3n0b27/coalgraal.png)
+Install details
+===============
+Import the colorscheme (getafe.itemcolors) by going to iTerm -> Preferences -> choose Colors tab -> Load presets -> Import
 
 
 Credits
 -------
-Thanks to Bastien Dejean for the initial TextMate theme! (https://github.com/baskerville/Coal-Graal.tmTheme)
+2012 Lars Smit <larssmit@me.com>

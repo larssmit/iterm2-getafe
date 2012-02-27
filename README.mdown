@@ -1,4 +1,4 @@
-Vim Getafe theme
+iTerm2 Getafe theme
 ====================
 
 Description
